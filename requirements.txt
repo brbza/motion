@@ -1,5 +1,5 @@
 kafka-python==1.4.3
-Flask==1.0.2
+Flask==2.3.2
 machine
 usocket
 network
